@@ -872,5 +872,15 @@
       "packageType": "Image",
       "useCaseName": "Hello World Example"
     }
+  ],
+  "rust (provided.al2)": [
+    {
+      "directory": "rust/cookiecutter-aws-sam-hello-rust",
+      "displayName": "Hello World Example",
+      "dependencyManager": "cargo",
+      "appTemplate": "hello-world",
+      "packageType": "Zip",
+      "useCaseName": "Hello World Example"
+    }
   ]
 }
