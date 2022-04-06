@@ -856,7 +856,7 @@
       "useCaseName": "Hello World Example"
     }
   ],
-  "provided.al2 (graalvm.java11)": [
+  "graalvm.java11 (provided.al2)": [
     {
       "directory": "graalvm/java11/cookiecutter-aws-sam-graalvm-maven",
       "displayName": "Hello World Example",
@@ -874,7 +874,7 @@
       "useCaseName": "Hello World Example"
     }
   ],
-  "provided.al2 (graalvm.java17)": [
+  "graalvm.java17 (provided.al2)": [
     {
       "directory": "graalvm/java17/cookiecutter-aws-sam-graalvm-maven",
       "displayName": "Hello World Example",
