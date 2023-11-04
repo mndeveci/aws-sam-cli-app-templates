@@ -1,0 +1,24 @@
+{
+    "project_name": "Your EventBridge Starter app",
+    "runtime": ["java8", "java8.al2", "java11", "java17"],
+    "architectures": {
+        "value": [
+            "x86_64", "arm64"
+        ]
+    },
+    "options": {
+        "java17": {
+            "name": "Java 17",
+            "java_version": 17,
+            "sdk_download": "https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html"
+        },
+        "java11": {
+            "name": "Java 11",
+            "java_version": 11,
+            "sdk_download": "https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html"
+        }
+    },
+    "_copy_without_render": [
+        ".gitignore"
+    ]
+}
