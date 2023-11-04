@@ -383,7 +383,7 @@
       "useCaseName": "Hello World Example with Powertools for AWS Lambda"
     },
     {
-      "directory": "java11/event-bridge-gradle",
+      "directory": "java/event-bridge-gradle",
       "displayName": "EventBridge Hello World: Gradle",
       "dependencyManager": "gradle",
       "appTemplate": "eventBridge-hello-world",
@@ -467,7 +467,7 @@
       "useCaseName": "Hello World Example with Powertools for AWS Lambda"
     },
     {
-      "directory": "java17/event-bridge-gradle",
+      "directory": "java/event-bridge-gradle",
       "displayName": "EventBridge Hello World: Gradle",
       "dependencyManager": "gradle",
       "appTemplate": "eventBridge-hello-world",
