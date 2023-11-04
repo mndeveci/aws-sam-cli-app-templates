@@ -15,4 +15,4 @@ dependencies {
 }
 
 sourceCompatibility = {{ cookiecutter.options[cookiecutter.runtime].java_version }}
-targetCompatibility = 17
+targetCompatibility = {{ cookiecutter.options[cookiecutter.runtime].java_version }}
