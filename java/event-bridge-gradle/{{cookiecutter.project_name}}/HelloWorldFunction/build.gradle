@@ -14,5 +14,5 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
 }
 
-sourceCompatibility = {{ cookiecutter.options[{{ cookiecutter.runtime }}].java_version }}
+sourceCompatibility = {{ cookiecutter.options[cookiecutter.runtime].java_version }}
 targetCompatibility = 17
